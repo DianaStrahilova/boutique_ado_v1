@@ -56,8 +56,8 @@ body {
     border: 1px solid black !important;
 }
 
-.small {
-    margin-top: 120px;
+.header-container {
+    padding-top: 164px;
 }
 
 .bg-black {
@@ -88,8 +88,8 @@ body {
     }
 }
 
-@media only screen and (max-width: 475px) {
+/* @media only screen and (max-width: 475px) {
     div.small {
        margin-top: 50px;
     }
-}
+} */
